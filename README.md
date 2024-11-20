@@ -15,44 +15,23 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 ## 🛠️ Skills and Tools  
 
 ### 💻 Languages:  
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- HTML5, CSS3, JavaScript (ES6+), TypeScript , Python
 
 ### 🎨 Front-End Frameworks & Libraries:  
-- React.js, Next.js, Vue.js, SASS, Tailwind CSS, Bootstrap  
+- React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap, MaterialUI
 
 ### 📦 Tools & Platforms:  
-- Git & GitHub, NPM, Webpack, Vite, Figma  
-
-### 🧪 Testing:  
-- Jest, Cypress, React Testing Library  
+- Git & GitHub, NPM, Webpack, Vite, Figma, Canva
 
 ### 🛠️ Others:  
 - REST APIs, GraphQL, Progressive Web Apps (PWAs), Responsive Design  
 
----
 
-## 🚀 My Projects  
-
-### 🌐 [Project Name](link-to-project)  
-**Tech Stack:** React, Tailwind CSS, Firebase  
-A [short description of the project], showcasing [specific feature or accomplishment].  
-Example: "Built a modern e-commerce platform with real-time product updates and a seamless checkout process."
-
-### 📱 [Another Project Name](link-to-project)  
-**Tech Stack:** Vue.js, Bootstrap, Node.js  
-Describe your role in the project and the challenges you solved.  
-Example: "Developed a responsive admin dashboard to manage user data efficiently with advanced filters and charts."
-
-### 🖼️ [Personal Portfolio](link-to-portfolio)  
-**Tech Stack:** HTML, CSS, JavaScript  
-This is my showcase of projects and skills, designed to highlight my expertise in front-end development and design principles.
-
----
 
 ## 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadMosavat&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosavat&layout=compact&theme=radical)
 
 ---
 
