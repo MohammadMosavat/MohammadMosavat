@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 ## 🌟 About Me  
 - 💻 I specialize in building dynamic and visually appealing websites using the latest front-end technologies.  
-- 🌱 Currently exploring **[specific technologies like TypeScript, WebAssembly, or others]** to further enhance my skills.  
-- 🔭 Working on **[specific project, e.g., an e-commerce app or portfolio redesign]** to push the boundaries of modern web development.  
+- 🌱 Currently exploring A React framework for building server-rendered applications with features like static site generation (SSG) and server-side rendering (SSR) and modern front-end framework that compiles components into highly efficient JavaScript during build time to further enhance my skills.  
+- 🔭 Working on specific project, e.g., an e-commerce app or portfolio redesign to push the boundaries of modern web development.  
 - 💡 I thrive on solving problems and turning creative ideas into functional, interactive designs.  
-- ⚡ Fun Fact: When I'm not coding, you'll find me [hobby, e.g., sketching, gaming, or hiking].
+- ⚡ Fun Fact: When I'm not coding, you'll find me playing football, reading book, listening to music and designing.
 
 ---
 
