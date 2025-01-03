@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mosavat-801723243/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:42.octmst@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Mohammad_Mosavat)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/theeMohammad)  
 
 ---
 
